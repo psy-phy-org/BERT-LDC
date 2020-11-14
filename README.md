@@ -1,2 +1,1 @@
-# BERT-LDC
-Classification of livedoor news corpus
+# Livedoor News Corpus classification example
