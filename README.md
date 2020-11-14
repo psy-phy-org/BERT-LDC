@@ -1,1 +1,1 @@
-# Livedoor News Corpus classification example
+# An example of the classification of Livedoor News Corpus
